@@ -1,0 +1,27 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+}
+
+header .logo {
+  font-size: 24px;
+}
+
+header .rightHeader {
+  display: flex;
+  min-width: 11rem;
+  /* border: 1px solid; */
+  justify-content: space-between;
+}
+
+header .username {
+  font-size: 18px;
+}
+
+header .cart {
+  font-size: 18px;
+}

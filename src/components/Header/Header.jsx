@@ -2,6 +2,9 @@ import React from 'react';
 import "./Header.css";
 
 const Header = ({ username, itemsInCart }) => {
+
+  
+
   return (
     <header>
       <div className="logo">😋</div>
